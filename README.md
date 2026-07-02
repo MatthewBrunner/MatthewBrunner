@@ -29,9 +29,9 @@ Welcome to my dashboard!
 ### 🛠️ Tech Stack & Tools
 
 ![Hugo](https://shields.io)
-![GitHub Pages](https://shields.io)
-![GitHub Actions](https://shields.io)
-![Markdown](https://shields.io)
-![Python](https://shields.io)
-![Linux](https://shields.io)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github%20Pages&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
