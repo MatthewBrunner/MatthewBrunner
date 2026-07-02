@@ -1,0 +1,23 @@
+name: Latest Blog Posts Workflow
+on:
+  schedule:
+    # Runs automatically every 12 hours
+    - cron: '0 */12 * * *'
+  workflow_dispatch: # Allows you to manually trigger it from the UI anytime
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    name: Update Profile README with Latest Posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Fetch and Inject RSS Posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://matthewbrunner.com"
+          max_post_count: 5
