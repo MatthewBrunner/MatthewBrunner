@@ -1,8 +1,8 @@
-## Hi there, I'm a Developer 👋
+## Hi there, I'm Matthew Brunner 👋
 
 ![Profile Views](https://komarev.com)
 
-Welcome to my dashboard! I design and develop experiences on the web, tracking my progress publicly.
+Welcome to my dashboard!
 
 ### 🌐 Live Portfolio
 👉 Explore my website built with Hugo: **[://matthewbrunner.com](https://matthewbrunner.com/)**
