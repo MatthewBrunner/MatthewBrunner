@@ -1,11 +1,9 @@
 ## Hi there, I'm Matthew Brunner 👋
 
-![Profile Views](https://komarev.com)
-
 Welcome to my dashboard!
 
 ### 🌐 Live Portfolio
-👉 Explore my website built with Hugo: **[://matthewbrunner.com](https://matthewbrunner.com/)**
+👉 My Website: **[matthewbrunner.com](https://matthewbrunner.com/)**
 
 ---
 
