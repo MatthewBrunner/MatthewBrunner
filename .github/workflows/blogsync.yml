@@ -19,5 +19,5 @@ jobs:
       - name: Fetch and Inject RSS Posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://matthewbrunner.com"
+          feed_list: "https://matthewbrunner.com/index.xml"
           max_post_count: 5
