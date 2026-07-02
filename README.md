@@ -24,8 +24,8 @@ Welcome to my dashboard!
 
 ### 📰 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-<!-- Do not delete or edit these comment blocks! The workflow uses them to inject your RSS posts automatically. -->
-* No posts fetched yet. The automated sync will update this section shortly!
+- [Git Pages and Other Updates](https://www.matthewbrunner.com/posts/gitpages/)
+- [HUGO Update](https://www.matthewbrunner.com/posts/hugoupdate/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
