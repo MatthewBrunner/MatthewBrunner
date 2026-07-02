@@ -12,10 +12,10 @@ Welcome to my dashboard!
 ### 📊 Engineering Metrics
 
 <!-- GitHub Stats Card (Matching Hugo Palette) -->
-<img align="left" src="https://vercel.app" alt="GitHub Stats" height="192px" />
+<img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MatthewBrunner" alt="GitHub Stats" height="192px" />
 
 <!-- Top Languages Card (Matching Hugo Palette) -->
-<img align="left" src="https://vercel.app" alt="Top Languages" height="192px" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatthewBrunner" alt="Top Languages" height="192px" />
 
 <!-- Clear floats -->
 <br clear="both" />
