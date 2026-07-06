@@ -10,9 +10,9 @@ Welcome to my dashboard!
 ### 📊 Engineering Metrics
 
 <!-- GitHub Stats Card (Matching Hugo Palette) -->
-![GitHub stats](https://github-stats-extended.vercel.app/api?username=MatthewBrunner&hide=contribs,prs)
+![GitHub stats](https://github-stats-extended.vercel.app/api?username=MatthewBrunner&hide=contribs,prs&theme=tokyonight)
 <!-- Top Languages Card (Matching Hugo Palette) -->
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=MatthewBrunner)](https://github.com/stats-organization/github-stats-extended)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=MatthewBrunner&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)
 <!-- Clear floats -->
 <br clear="both" />
 
